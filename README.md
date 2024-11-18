@@ -5,6 +5,10 @@ I am currently a first-year student at La Plateforme school. So far, I have star
 ‣  I'm currently working on making my GitHub profile look awesome ✨
 
 ‣  I'm currently learning on Python ✍🏻
+
+📋 Project List :
+‣ CV
+‣ FanSite
 <!--
 **clarisse-oyharcabal/clarisse-oyharcabal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
