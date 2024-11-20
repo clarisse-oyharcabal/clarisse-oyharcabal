@@ -9,9 +9,9 @@
 
 ## 📋 Project List :
 
-‣ CV
+📄 CV
 
-‣ FanSite
+⭐ FanSite
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=clarisse-oyharcabal&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -23,5 +23,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=clarisse-oyharcabal&icon=0&color=7)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
