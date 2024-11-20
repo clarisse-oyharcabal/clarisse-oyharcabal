@@ -1,3 +1,5 @@
+<img align="center" alt="coding" width="1100" src="">
+
 # Hi, I'm Clarisse 👋🏼👩🏻‍💻
 
 ## 💫 About Me:
