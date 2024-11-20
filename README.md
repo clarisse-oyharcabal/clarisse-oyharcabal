@@ -1,4 +1,4 @@
-![bannière](clarisse-oyharcabal/bannieregithub.png)
+![bannière](images/bannieregithub.png)
 
 # Hi, I'm Clarisse 👋🏼👩🏻‍💻
 
