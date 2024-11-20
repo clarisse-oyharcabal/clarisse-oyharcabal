@@ -1,6 +1,6 @@
-![bannière](images/ClarisseGithubProfile.png)
-
 # Hi, I'm Clarisse 👋🏼👩🏻‍💻
+
+![bannière](images/ClarisseGithubProfile.png)
 
 ## 💫 About Me:
 ✍🏻 I am currently a first-year student at La Plateforme school. So far, I have started studying HTML and CSS, as well as hardware emulation and virtualization with VMware Workstation, Windows 11, and Debian. I have discovered a passion for web development, but I am looking forward to exploring AI.
