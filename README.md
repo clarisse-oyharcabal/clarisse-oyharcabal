@@ -1,4 +1,4 @@
-![bannière](images/OyharçabalGithubProfile.png)
+![bannière](images/oui.png)
 
 # Hi, I'm Clarisse 👋🏼👩🏻‍💻
 
