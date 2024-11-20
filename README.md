@@ -1,4 +1,4 @@
-![bannière](images/bannieregithub.png)
+![bannière](images/ClarisseGithubProfile.png)
 
 # Hi, I'm Clarisse 👋🏼👩🏻‍💻
 
