@@ -1,4 +1,4 @@
-<img align="center" alt="coding" width="1100" src="">
+![bannière](clarisse-oyharcabal/bannieregithub.png)
 
 # Hi, I'm Clarisse 👋🏼👩🏻‍💻
 
