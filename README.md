@@ -3,10 +3,17 @@
 # Hi, I'm Clarisse 👋🏼👩🏻‍💻
 
 ## 💫 About Me:
-✍🏻 I’m a first-year IT bachelor student at La Plateforme, diving deep into the world of technology. Currently, I'm building my skills in web development with HTML and CSS, creating responsive, user-friendly and elegant websites. Alongside this, I’m exploring the exciting field of cybersecurity, focusing on hardware configurations and virtualization.
+✍🏻 I’m a first-year IT bachelor student at La Plateforme, diving deep into the world of technology. 
+
+Currently, I'm building my skills in web development with HTML and CSS, creating responsive, user-friendly and elegant websites. 
+
+Alongside this, I’m exploring the exciting field of cybersecurity, focusing on hardware configurations and virtualization.
 One of my first hands-on experiences was creating a virtual machine using VMware Workstation Pro, where I installed both Windows and Debian OS to better understand system management and security protocols.
+
 I am also keen to explore the field of AI and look forward to expanding my expertise in this exciting and dynamic area of technology.
-I'm passionate about learning new technologies and improving my coding and cybersecurity skills.
+
+I'm passionate about learning new technologies and improving my coding, cybersecurity and AI skills.
+
 I am committed to growing as a developer and IT professional, and I look forward to the opportunities and challenges ahead.
 
 ✨  I'm currently building my "Portfolio"
