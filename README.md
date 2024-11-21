@@ -24,7 +24,7 @@ I am committed to growing as a developer and IT professional, and I look forward
 
 ⭐ FanSite (HTML & CSS)</br>
 
-⚙️ Virtual Machine with Vmware Worstation Pro (Windows 11, Debian)
+⚙️ Virtual Machine 
 
 🪪 My portfolio
 
