@@ -1,4 +1,4 @@
-![bannière](images/oui.png)
+![bannière](images/non.png)
 
 # Hi, I'm Clarisse 👋🏼👩🏻‍💻
 
