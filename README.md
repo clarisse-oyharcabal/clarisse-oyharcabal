@@ -1,4 +1,4 @@
-![bannière](images/non.png)
+![bannière](images/crop.gif)
 
 # Hi, I'm Clarisse 👋🏼👩🏻‍💻
 
