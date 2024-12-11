@@ -5,28 +5,25 @@
 ## 💫 About Me:
 ✍🏻 I’m a first-year IT bachelor student at La Plateforme, diving deep into the world of technology. 
 
-Currently, I'm building my skills in web development with HTML and CSS, creating responsive, user-friendly and elegant websites. 
+Voici une version encore plus naturelle et fluide :
 
-Alongside this, I’m exploring the exciting field of cybersecurity, focusing on hardware configurations and virtualization.
-One of my first hands-on experiences was creating a virtual machine using VMware Workstation Pro, where I installed both Windows and Debian OS to better understand system management and security protocols.
+I have a background in sociology, where I developed key skills in data collection, sampling, structuring, and analysis. These skills have helped me approach complex problems in a methodical way. Today, I apply this knowledge to artificial intelligence, using algorithms and data processing to turn challenges into practical solutions.
 
-I am also keen to explore the field of AI and look forward to expanding my expertise in this exciting and dynamic area of technology.
+I’m passionate about combining scientific methods with technological innovation, and I’m excited to tackle the challenges of tomorrow in a world that’s increasingly driven by data and AI.
 
-I'm passionate about learning new technologies and improving my coding, cybersecurity and AI skills.
-
-I am committed to growing as a developer and IT professional, and I look forward to the opportunities and challenges ahead.
-
-✨  I'm currently building my "Portfolio"
+✨  I am currently building a decision-making algorithm (minimax) for my Tic-Tac-Toe game.
 
 💻  I'm currently learning on Python 
 
 ## 📋 Project List :
 
+🤖 Tic-Tac-Toe (python)
+
 ⭐ FanSite (HTML & CSS)</br>
 
 ⚙️ Virtual Machine 
 
-🪪 My portfolio
+🪪 My portfolio (in process)
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=clarisse-oyharcabal&theme=onedark&hide_border=false&include_all_commits=false&count_private=false) ![](https://github-readme-streak-stats.herokuapp.com/?user=clarisse-oyharcabal&theme=onedark&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=clarisse-oyharcabal&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
