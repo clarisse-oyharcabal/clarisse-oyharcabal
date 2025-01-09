@@ -5,7 +5,7 @@
 ## 💫 About Me:
 ✍🏻 I’m a first-year IT bachelor student at La Plateforme, diving deep into the world of technology. 
 
-I have a background in sociology, where I developed key skills in data collection, sampling, structuring, and analysis. These skills have helped me approach complex problems in a methodical way. Today, I apply this knowledge to artificial intelligence, using algorithms and data processing to turn challenges into practical solutions.
+I have a background in sociology and psychology, where I developed key skills in data collection, sampling, structuring, and analysis. These skills have helped me approach complex problems in a methodical way. Today, I apply this knowledge to artificial intelligence, using algorithms and data processing to turn challenges into practical solutions.
 
 I’m passionate about combining scientific methods with technological innovation, and I’m excited to tackle the challenges of tomorrow in a world that’s increasingly driven by data and AI.
 
@@ -14,6 +14,8 @@ I’m passionate about combining scientific methods with technological innovatio
 💻  I'm currently learning on Python 
 
 ## 📋 Project List :
+
+⏲️ Clock (python)
 
 🤖 Tic-Tac-Toe (python)
 
