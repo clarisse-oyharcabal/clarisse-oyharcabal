@@ -15,6 +15,8 @@ I’m passionate about combining scientific methods with technological innovatio
 
 ## 📋 Project List :
 
+🧮 Calculator (python)
+
 ⏲️ Clock (python)
 
 🤖 Tic-Tac-Toe (python)
