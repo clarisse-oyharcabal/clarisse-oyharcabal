@@ -9,11 +9,14 @@ I have a background in sociology and psychology, where I developed key skills in
 
 I’m passionate about combining scientific methods with technological innovation, and I’m excited to tackle the challenges of tomorrow in a world that’s increasingly driven by data and AI.
 
+💻  I'm currently learning on Python, R and SQL.
+
 ✨  I am currently building a decision-making algorithm (minimax) for my Tic-Tac-Toe game.
 
-💻  I'm currently learning on Python 
-
 ## 📋 Project List :
+💥Pokémon (pygame)
+
+🍉Fruit Slicer (pygame)
 
 🧮 Calculator (python)
 
