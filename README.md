@@ -11,7 +11,7 @@ I’m passionate about combining scientific methods with technological innovatio
 
 💻  I'm currently learning on Python, R and SQL.
 
-✨  I am currently building a decision-making algorithm (minimax) for my Tic-Tac-Toe game.
+✨  I am currently building a stock management program in Python with a MySQL database using a SQL server.
 
 ## 📋 Project List :
 📊Dashboard (SQL)
@@ -24,7 +24,7 @@ I’m passionate about combining scientific methods with technological innovatio
 
 ⏲️ Clock (PYTHON)
 
-🤖 Tic-Tac-Toe (PYTHON)
+🤖 Tic-Tac-Toe (PYTHON, I am currently implementing a minimax-based decision-making algorithm, meticulously constructing it from the ground up, line by line.)
 
 ⭐ FanSite (HTML & CSS)</br>
 
