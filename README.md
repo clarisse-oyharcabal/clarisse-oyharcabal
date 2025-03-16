@@ -14,21 +14,23 @@ I’m passionate about combining scientific methods with technological innovatio
 ✨  I am currently building a decision-making algorithm (minimax) for my Tic-Tac-Toe game.
 
 ## 📋 Project List :
-💥Pokémon (pygame)
+📊Dashboard (SQL)
 
-🍉Fruit Slicer (pygame)
+💥Pokémon (PYGAME)
 
-🧮 Calculator (python)
+🍉Fruit Slicer (PYGAME)
 
-⏲️ Clock (python)
+🧮 Calculator (PYTHON)
 
-🤖 Tic-Tac-Toe (python)
+⏲️ Clock (PYTHON)
+
+🤖 Tic-Tac-Toe (PYTHON)
 
 ⭐ FanSite (HTML & CSS)</br>
 
 ⚙️ Virtual Machine 
 
-🪪 My portfolio 
+🪪 My portfolio (HTML & CSS & JS) 
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=clarisse-oyharcabal&theme=onedark&hide_border=false&include_all_commits=false&count_private=false) ![](https://github-readme-streak-stats.herokuapp.com/?user=clarisse-oyharcabal&theme=onedark&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=clarisse-oyharcabal&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
