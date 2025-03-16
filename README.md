@@ -32,7 +32,7 @@ I’m passionate about combining scientific methods with technological innovatio
 
 🪪 My portfolio (HTML & CSS & JS) 
 
-...
+### ...
 
 ### Check my repositories! 😉
 
