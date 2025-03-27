@@ -15,7 +15,7 @@ I’m passionate about combining scientific methods with technological innovatio
 
 ## 📋 Project List :
 
-💸Budget Buddy
+💸Budget Buddy (mySQL, CUSTOMTKINTER)
 
 📊Dashboard (SQL)
 
