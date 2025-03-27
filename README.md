@@ -14,6 +14,9 @@ I’m passionate about combining scientific methods with technological innovatio
 ✨  I am currently building a stock management program in Python with a MySQL database using a SQL server.
 
 ## 📋 Project List :
+
+💸Budget Buddy
+
 📊Dashboard (SQL)
 
 💥Pokémon (PYGAME)
